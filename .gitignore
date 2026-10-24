@@ -1,0 +1,10 @@
+build/
+*.o
+__pycache__/
+venv/
+.venv/
+*.exe
+*.out
+.DS_Store
+CMakeFiles/
+CMakeCache.txt
